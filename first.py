@@ -1,4 +1,5 @@
 #тут будет класс с окном - инстукцией
 
 class First():
-    pass
+    def __init__(self) -> None:
+        pass
